@@ -1,0 +1,15 @@
+D:\ЛАБЫ ООП\структуры данных лаб 1\bin\Debug\net6.0\структуры данных лаб 1.exe
+D:\ЛАБЫ ООП\структуры данных лаб 1\bin\Debug\net6.0\структуры данных лаб 1.deps.json
+D:\ЛАБЫ ООП\структуры данных лаб 1\bin\Debug\net6.0\структуры данных лаб 1.runtimeconfig.json
+D:\ЛАБЫ ООП\структуры данных лаб 1\bin\Debug\net6.0\структуры данных лаб 1.dll
+D:\ЛАБЫ ООП\структуры данных лаб 1\bin\Debug\net6.0\ref\структуры данных лаб 1.dll
+D:\ЛАБЫ ООП\структуры данных лаб 1\bin\Debug\net6.0\структуры данных лаб 1.pdb
+D:\ЛАБЫ ООП\структуры данных лаб 1\obj\Debug\net6.0\структуры данных лаб 1.csproj.AssemblyReference.cache
+D:\ЛАБЫ ООП\структуры данных лаб 1\obj\Debug\net6.0\структуры данных лаб 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЛАБЫ ООП\структуры данных лаб 1\obj\Debug\net6.0\структуры данных лаб 1.AssemblyInfoInputs.cache
+D:\ЛАБЫ ООП\структуры данных лаб 1\obj\Debug\net6.0\структуры данных лаб 1.AssemblyInfo.cs
+D:\ЛАБЫ ООП\структуры данных лаб 1\obj\Debug\net6.0\структуры данных лаб 1.csproj.CoreCompileInputs.cache
+D:\ЛАБЫ ООП\структуры данных лаб 1\obj\Debug\net6.0\структуры данных лаб 1.dll
+D:\ЛАБЫ ООП\структуры данных лаб 1\obj\Debug\net6.0\ref\структуры данных лаб 1.dll
+D:\ЛАБЫ ООП\структуры данных лаб 1\obj\Debug\net6.0\структуры данных лаб 1.pdb
+D:\ЛАБЫ ООП\структуры данных лаб 1\obj\Debug\net6.0\структуры данных лаб 1.genruntimeconfig.cache
